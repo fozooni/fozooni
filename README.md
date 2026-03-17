@@ -1,15 +1,254 @@
-# 💫 About Me:
-💻 Software Engineer & Tech Lead with over 8 years of experience building scalable, high-performance systems and leading engineering teams.<br>🤖 AI Enthusiast & Specialist focused on Agentic Flow, LLM fine-tuning, RAG pipelines, and building intelligent autonomous systems.<br>🛠️ Full-Stack Expert proficient in a wide tech stack including Node.js (NestJS, Fastify), PHP (Laravel), Python (FastAPI), and modern frontend frameworks like React and Next.js.<br>🚀 Current CTO at Bupple, where I architect AI-driven content pipelines that reduce manual editing time by over 80% through GPU-accelerated video rendering and multi-agent orchestration.<br>🌍 Based in Istanbul, Turkey, working on global-scale projects that bridge the gap between emerging AI research and real-world production systems.<br>🏗️ Infrastructure & DevOps skilled in Docker, Kubernetes, and AWS to ensure 99.9% reliability and seamless CI/CD automation.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ahmad%20Fozooni&reversal=false&section=header&fontAlignY=30&fontSize=55&desc=Software%20Engineer%20|%20Solution%20Architect&descAlignY=52" alt="Header Banner" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=7000&pause=1000&color=4D0EF7&width=523&lines=Building+high-performance+and+scalable+products" alt="Typing Animation" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fozooni.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fozooni) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FozooniA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fozooni.me@gmail.com) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-0B132B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-CTO-1C2541?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-3A506B?style=for-the-badge&logo=shopify&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-5BC0BE?style=for-the-badge&logo=icloud&logoColor=001219" alt="Cloud" />
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=flat&logo=adonisjs&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=flat&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=Apache%20Flink&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat&logo=travis&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=flat&logo=octopusdeploy&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=Puppeteer&logoSize=auto&logoColor=black) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat&logo=sentry&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fozooni&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fozooni&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fozooni&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fozooni&style=for-the-badge&color=0B132B" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/fozooni?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/fozooni?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#badges">Badges</a> •
+  <a href="#ai-arsenal">AI Arsenal</a> •
+  <a href="#tech-universe">Tech Universe</a> •
+  <a href="#dashboard">Live Dashboard</a>
+</p>
+
+---
+
+<a id="about-me"></a>
+
+## 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+        A self-driven developer with <strong>8+ years</strong> of experience turning complex challenges into scalable, reliable software across startups and enterprise teams.
+      </p>
+      <p>
+        Known for blending <strong>creativity with precision</strong>, delivering solutions that balance speed, quality, and long-term impact. Recent work centers on <strong>AI and Machine Learning</strong>, applying emerging technologies to build practical, innovative systems.
+      </p>
+      <p>
+        Currently serving as <strong>CTO at Bupple</strong>, building AI-driven content pipelines, custom LLMs, multi-agent orchestration systems, and GPU-accelerated video rendering infrastructure.
+      </p>
+      <p>
+        <strong>🎓 B.Sc in Computer Engineering</strong> — Azad University of Tehran
+      </p>
+      <p>
+        🤝 <strong>Let's connect:</strong><br/>
+        <a href="https://www.linkedin.com/in/fozooni/">
+          <img src="https://img.shields.io/badge/LinkedIn-Let's%20Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/Fozooni">
+          <img src="https://img.shields.io/badge/GitHub-Fozooni-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="mailto:fozooni.me@gmail.com">
+          <img src="https://img.shields.io/badge/Email-fozooni.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </p>
+    </td>
+    <td width="38%" align="center">
+      <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="100%" alt="This is fine" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="badges"></a>
+
+## 🏷️ Fun Facts & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/404-Sleep%20Not%20Found-FF6B6B?style=for-the-badge&logo=coffeescript&logoColor=white" alt="No Sleep" />
+  <img src="https://img.shields.io/badge/Powered%20By-Coffee%20%26%20Deadlines-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee" />
+  <img src="https://img.shields.io/badge/Status-200%20OK-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="200 OK" />
+  <img src="https://img.shields.io/badge/sudo%20rm%20--rf-/sleep-FF4444?style=for-the-badge&logo=linux&logoColor=white" alt="No Sleep Linux" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Works%20On-My%20Machine%20%E2%9C%93-blueviolet?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Works on my machine" />
+  <img src="https://img.shields.io/badge/AI%20Whisperer-Talks%20to%20Models-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Whisperer" />
+  <img src="https://img.shields.io/badge/git%20commit%20--m-'fix%20fix%20fix'-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Fix" />
+  <img src="https://img.shields.io/badge/Bugs%20Squashed-999%2B-EF4444?style=for-the-badge&logo=beetle&logoColor=white" alt="Bugs" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deploys%20on-Friday%20Nights%20%F0%9F%94%A5-FF9800?style=for-the-badge&logo=firebase&logoColor=white" alt="Friday Deploys" />
+  <img src="https://img.shields.io/badge/Stack-Overflow%20Driven-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  <img src="https://img.shields.io/badge/Brain-GPU%20Accelerated-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GPU Brain" />
+  <img src="https://img.shields.io/badge/Containers-I%20Put%20Everything%20In%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Everything" />
+</p>
+
+---
+
+<a id="ai-arsenal"></a>
+
+## 🤖 AI & ML Arsenal
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=Training+custom+LLMs+on+proprietary+multimodal+datasets;Building+multi-agent+orchestration+with+dynamic+memory;RAG+pipelines+that+actually+work+in+production;Connecting+LLMs+to+live+internet+data+streams" alt="AI typing" />
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 AI & LLM Engineering</h3>
+      <ul>
+        <li><strong>Custom LLM Training</strong> — Fine-tuned models on proprietary multimodal datasets (text, visual, behavioral signals)</li>
+        <li><strong>RAG & Varix Pipelines</strong> — Production-ready retrieval-augmented generation for chat-based content creation</li>
+        <li><strong>Multi-Agent Orchestration</strong> — Dynamic memory and tool-augmented reasoning flows in production</li>
+        <li><strong>Prompt & Dataset Engineering</strong> — Crafting precise prompts and curating high-quality training data</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Applied AI Systems</h3>
+      <ul>
+        <li><strong>Trend Detection Neural Net</strong> — Custom model detecting viral social media trends from contextual & behavioral data</li>
+        <li><strong>Real-Time Knowledge Grounding</strong> — LLMs connected to live internet data streams with adaptive fine-tuning</li>
+        <li><strong>GPU Video Pipeline</strong> — CUDA-enabled FFmpeg with automated captions, B-roll, and sound design</li>
+        <li><strong>AI Content Pipelines</strong> — Raw media → fully edited, branded, publish-ready videos (80%+ time reduction)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-Fine%20Tuning-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" alt="Fine Tuning" />
+  <img src="https://img.shields.io/badge/RAG-Production%20Ready-10B981?style=for-the-badge&logo=elastic&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Multi--Agent-Orchestration-F59E0B?style=for-the-badge&logo=robot&logoColor=white" alt="Multi-Agent" />
+  <img src="https://img.shields.io/badge/CUDA-GPU%20Accelerated-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Embeddings-Vector%20Search-3B82F6?style=for-the-badge&logo=pinecone&logoColor=white" alt="Embeddings" />
+</p>
+
+---
+
+## 🎯 Impact Areas
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏗️ Architecture & Scale</h3>
+      <p>Microservice architecture, event-driven systems, and API contracts designed for high-traffic applications processing 50K+ operations monthly.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁️ Cloud & DevOps</h3>
+      <p>Production hardening with Docker, Kubernetes, CI/CD automation — reducing deployment errors and accelerating release cycles by 35%.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 Performance & Security</h3>
+      <p>Query optimization (40% faster), SSR/SSG strategies, zero-breach security track record, and systems serving 100K+ users.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="tech-universe"></a>
+
+## 🧰 Tech Universe
+
+### Backend Powerhouse
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,py,fastapi,django,php,laravel,graphql" alt="Backend Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" alt="Adonis" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+</p>
+
+### Frontend Mastery
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,tailwind,scss" alt="Frontend Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black" alt="Pinia" />
+</p>
+
+### Cloud & Platform Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,git" alt="Cloud and Platform" />
+</p>
+
+### Data, Messaging & Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/BullMQ-CE3C30?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/Memcached-1BA0D7?style=for-the-badge" alt="Memcached" />
+</p>
+
+### Methodologies & Practices
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TDD-Test%20Driven-2ECC71?style=for-the-badge&logo=testcafe&logoColor=white" alt="TDD" />
+  <img src="https://img.shields.io/badge/EDD-Event%20Driven-9B59B6?style=for-the-badge&logo=eventbrite&logoColor=white" alt="EDD" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-3498DB?style=for-the-badge&logo=moleculer&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automated-E74C3C?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/REST-API-1ABC9C?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/WebSocket-Realtime-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+</p>
+
+<a id="dashboard"></a>
+
+## 📡 Live Engineering Dashboard
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fozooni&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=fozooni&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fozooni&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</div>
+
+---
+
+## 🌍 Languages I Speak (Not Programming Ones)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Persian-Native-009639?style=for-the-badge&logo=personio&logoColor=white" alt="Persian" />
+  <img src="https://img.shields.io/badge/English-Upper%20Intermediate-1D4ED8?style=for-the-badge&logo=duolingo&logoColor=white" alt="English" />
+  <img src="https://img.shields.io/badge/Turkish-Pre%20Intermediate-E30A17?style=for-the-badge&logo=duolingo&logoColor=white" alt="Turkish" />
+</p>
+
+---
+
+<p align="center">
+  <i>"I don't fix bugs. I negotiate with them until they leave voluntarily."</i>
+</p>
